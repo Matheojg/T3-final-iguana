@@ -14,8 +14,12 @@ body {
   margin: 0 auto;
   font-size: 1.25rem;
   align-items: center;
-  padding-top: 20%;
 }
+
+.logo {
+  width: 3.5%;
+}
+
 #nav-Menu li {
   margin-bottom: 0px;
   margin-right: 0;
