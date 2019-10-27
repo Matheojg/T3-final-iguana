@@ -60,6 +60,9 @@ a {
   justify-content: space-around;
   flex-direction: column;
 }
+.section__verte a {
+  color: white;
+}
 .banniere {
   width: 100%;
   height: 8vh;
